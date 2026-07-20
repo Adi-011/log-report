@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "/tmp/harbor-check-igwuhk9f/check-log-report"
+    },
+    "trial_name": "check-log-report__i69Cg2U",
+    "trials_dir": "jobs/2026-07-20__22-27-57",
+    "agent": {
+        "name": "claude-code",
+        "model_name": "claude-sonnet-4-6"
+    },
+    "job_id": "37d2fc73-3be7-46dc-8e2b-a20efaeb2166"
+}

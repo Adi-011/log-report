@@ -1,0 +1,13 @@
+{
+    "agents": [
+        {
+            "name": "claude-code",
+            "model_name": "claude-sonnet-4-6"
+        }
+    ],
+    "tasks": [
+        {
+            "path": "/tmp/harbor-check-igwuhk9f/check-log-report"
+        }
+    ]
+}
